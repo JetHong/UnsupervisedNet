@@ -1,0 +1,142 @@
+-----------------load checkpoint model/model-85000
+-----------------load checkpoint model/model-85000
+-----------------load checkpoint model/model-85000
+-----------------scene sideboard
+---------------Value(0.07) accuracy:right rate 88.758 error rate 11.242
+-----------------scene sideboard
+---------------Value(0.07) accuracy:right rate 89.134 error rate 10.866
+-----------------scene cotton
+---------------Value(0.07) accuracy:right rate 96.133 error rate 3.867
+-----------------scene cotton
+---------------Value(0.07) accuracy:right rate 96.378 error rate 3.622
+-----------------scene boxes
+---------------Value(0.07) accuracy:right rate 76.538 error rate 23.462
+-----------------scene boxes
+---------------Value(0.07) accuracy:right rate 77.013 error rate 22.987
+-----------------scene dino
+---------------Value(0.07) accuracy:right rate 94.206 error rate 5.794
+-----------------scene dino
+---------------Value(0.07) accuracy:right rate 94.496 error rate 5.504
+-----------------scene backgammon
+---------------Value(0.07) accuracy:right rate 87.419 error rate 12.581
+-----------------scene backgammon
+---------------Value(0.07) accuracy:right rate 87.529 error rate 12.471
+-----------------scene pyramids
+---------------Value(0.07) accuracy:right rate 99.696 error rate 0.304
+-----------------scene pyramids
+---------------Value(0.07) accuracy:right rate 99.721 error rate 0.279
+-----------------scene stripes
+---------------Value(0.07) accuracy:right rate 89.210 error rate 10.790
+-----------------scene stripes
+---------------Value(0.07) accuracy:right rate 89.267 error rate 10.733
+-----------------scene dots
+---------------Value(0.07) accuracy:right rate 95.994 error rate 4.006
+-----------------scene dots
+---------------Value(0.07) accuracy:right rate 96.437 error rate 3.563
+-----------------avg score 90.99428492105852---------------
+-----------------avg score 91.24682716809284---------------
+-----------------load checkpoint model/model-85000
+-----------------scene sideboard
+---------------Value(0.07) accuracy:right rate 88.758 error rate 11.242
+-----------------scene sideboard
+---------------Value(0.07) accuracy:right rate 89.134 error rate 10.866
+-----------------scene cotton
+---------------Value(0.07) accuracy:right rate 96.133 error rate 3.867
+-----------------scene cotton
+---------------Value(0.07) accuracy:right rate 96.378 error rate 3.622
+-----------------scene boxes
+---------------Value(0.07) accuracy:right rate 76.538 error rate 23.462
+-----------------scene boxes
+---------------Value(0.07) accuracy:right rate 77.013 error rate 22.987
+-----------------scene dino
+---------------Value(0.07) accuracy:right rate 94.206 error rate 5.794
+-----------------scene dino
+---------------Value(0.07) accuracy:right rate 94.496 error rate 5.504
+-----------------scene backgammon
+---------------Value(0.07) accuracy:right rate 87.419 error rate 12.581
+-----------------scene backgammon
+---------------Value(0.07) accuracy:right rate 87.529 error rate 12.471
+-----------------scene pyramids
+---------------Value(0.07) accuracy:right rate 99.696 error rate 0.304
+-----------------scene pyramids
+---------------Value(0.07) accuracy:right rate 99.721 error rate 0.279
+-----------------scene stripes
+---------------Value(0.07) accuracy:right rate 89.210 error rate 10.790
+-----------------scene stripes
+---------------Value(0.07) accuracy:right rate 89.267 error rate 10.733
+-----------------scene dots
+---------------Value(0.07) accuracy:right rate 95.994 error rate 4.006
+-----------------scene dots
+---------------Value(0.07) accuracy:right rate 96.437 error rate 3.563
+-----------------avg score 90.99429030147553---------------
+-----------------avg score 91.24688635267988---------------
+-----------------load checkpoint model/model-85000
+-----------------scene sideboard
+---------------Value(0.07) accuracy:right rate 88.758 error rate 11.242
+-----------------scene sideboard
+---------------Value(0.07) accuracy:right rate 89.134 error rate 10.866
+-----------------scene cotton
+---------------Value(0.07) accuracy:right rate 96.133 error rate 3.867
+-----------------scene cotton
+---------------Value(0.07) accuracy:right rate 96.378 error rate 3.622
+-----------------scene boxes
+---------------Value(0.07) accuracy:right rate 76.538 error rate 23.462
+-----------------scene boxes
+---------------Value(0.07) accuracy:right rate 77.013 error rate 22.987
+-----------------scene dino
+---------------Value(0.07) accuracy:right rate 94.206 error rate 5.794
+-----------------scene dino
+---------------Value(0.07) accuracy:right rate 94.496 error rate 5.504
+-----------------scene backgammon
+---------------Value(0.07) accuracy:right rate 87.419 error rate 12.581
+-----------------scene backgammon
+---------------Value(0.07) accuracy:right rate 87.529 error rate 12.471
+-----------------scene pyramids
+---------------Value(0.07) accuracy:right rate 99.696 error rate 0.304
+-----------------scene pyramids
+---------------Value(0.07) accuracy:right rate 99.721 error rate 0.279
+-----------------scene stripes
+---------------Value(0.07) accuracy:right rate 89.210 error rate 10.790
+-----------------scene stripes
+---------------Value(0.07) accuracy:right rate 89.267 error rate 10.733
+-----------------scene dots
+---------------Value(0.07) accuracy:right rate 95.994 error rate 4.006
+-----------------scene dots
+---------------Value(0.07) accuracy:right rate 96.437 error rate 3.563
+-----------------avg score 90.99428492105852---------------
+-----------------avg score 91.24683254850984---------------
+-----------------load checkpoint model/model-85000
+-----------------scene sideboard
+---------------Value(0.07) accuracy:right rate 88.758 error rate 11.242
+-----------------scene sideboard
+---------------Value(0.07) accuracy:right rate 89.134 error rate 10.866
+-----------------scene cotton
+---------------Value(0.07) accuracy:right rate 96.133 error rate 3.867
+-----------------scene cotton
+---------------Value(0.07) accuracy:right rate 96.378 error rate 3.622
+-----------------scene boxes
+---------------Value(0.07) accuracy:right rate 76.538 error rate 23.462
+-----------------scene boxes
+---------------Value(0.07) accuracy:right rate 77.013 error rate 22.987
+-----------------scene dino
+---------------Value(0.07) accuracy:right rate 94.206 error rate 5.794
+-----------------scene dino
+---------------Value(0.07) accuracy:right rate 94.496 error rate 5.504
+-----------------scene backgammon
+---------------Value(0.07) accuracy:right rate 87.419 error rate 12.581
+-----------------scene backgammon
+---------------Value(0.07) accuracy:right rate 87.529 error rate 12.471
+-----------------scene pyramids
+---------------Value(0.07) accuracy:right rate 99.696 error rate 0.304
+-----------------scene pyramids
+---------------Value(0.07) accuracy:right rate 99.721 error rate 0.279
+-----------------scene stripes
+---------------Value(0.07) accuracy:right rate 89.210 error rate 10.790
+-----------------scene stripes
+---------------Value(0.07) accuracy:right rate 89.267 error rate 10.733
+-----------------scene dots
+---------------Value(0.07) accuracy:right rate 95.994 error rate 4.006
+-----------------scene dots
+---------------Value(0.07) accuracy:right rate 96.437 error rate 3.563
+-----------------avg score 90.99428492105852---------------
+-----------------avg score 91.24682716809284---------------
